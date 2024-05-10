@@ -2,6 +2,10 @@
 
 namespace CodeChallenges.AreaOfOverlappingRectangles
 {
+    /// <summary>
+    /// This is my solution to the Area of Overlapping Rectangles test found on edabit.
+    /// https://edabit.com/challenge/Jj6S7qQgtfAo4L2QR
+    /// </summary>
     public class AreaOfOverlappingRectsTester
     {
         public static void RunTest()
